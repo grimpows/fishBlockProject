@@ -1,0 +1,3 @@
+terminier les diagrammes analyse fonctionelle.
+mettre sur ecris l'analyse + schema.
+cahier des charges fonctionelle + PBS + WBS + OBS

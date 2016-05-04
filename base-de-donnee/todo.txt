@@ -1,0 +1,3 @@
+script de creation de base
+script de creation de tables
+dictionnaire de donnée etc ...
